@@ -40,7 +40,7 @@ This is a simple example of how to show graphs in VS Code using Matplotlib, Jupy
 - Install the necessary packages:
 
     ```
-    pip install psycopg2-binary matplotlib plotly pandas python-dotenv
+    pip install psycopg2-binary matplotlib plotly pandas python-dotenv nbformat
     ```
 
 ## Create a `.env` File
